@@ -1,0 +1,15 @@
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\bin\Debug\net9.0\Actividad evaluable 2º trimestre.exe
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\bin\Debug\net9.0\Actividad evaluable 2º trimestre.deps.json
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\bin\Debug\net9.0\Actividad evaluable 2º trimestre.runtimeconfig.json
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\bin\Debug\net9.0\Actividad evaluable 2º trimestre.dll
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\bin\Debug\net9.0\Actividad evaluable 2º trimestre.pdb
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\Actividad evaluable 2º trimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\Actividad evaluable 2º trimestre.AssemblyInfoInputs.cache
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\Actividad evaluable 2º trimestre.AssemblyInfo.cs
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\Actividad evaluable 2º trimestre.csproj.CoreCompileInputs.cache
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\Actividad evaluable 2º trimestre.sourcelink.json
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\Actividad evaluable 2º trimestre.dll
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\refint\Actividad evaluable 2º trimestre.dll
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\Actividad evaluable 2º trimestre.pdb
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\Actividad evaluable 2º trimestre.genruntimeconfig.cache
+C:\Users\gmadu\OneDrive\Documentos\DAW\Fundamentos de Programación\Actividad evaluable 2º trimestre\obj\Debug\net9.0\ref\Actividad evaluable 2º trimestre.dll
