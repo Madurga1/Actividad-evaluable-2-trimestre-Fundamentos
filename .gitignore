@@ -1,0 +1,10 @@
+# Compilados de .NET
+bin/
+obj/
+
+# Cachés y configuración local de editores
+*.lscache
+.vs/
+.vscode/
+.idea/
+*.user
