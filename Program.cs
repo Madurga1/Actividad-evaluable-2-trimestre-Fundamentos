@@ -24,7 +24,12 @@ do
         Console.Write("Elige una opción: ");
     }
 
-    opcion = int.Parse(Console.ReadLine());
+    // Si se escribe algo que no es un número, se trata como opción no válida
+    // en lugar de cerrar el programa con una excepción.
+    if (!int.TryParse(Console.ReadLine(), out opcion))
+    {
+        opcion = -1;
+    }
 
     if (usuarioActivo == null)
     {
@@ -92,9 +97,17 @@ do
         {
             case 1: // Registrar entrenamiento
                 Console.Write("Distancia recorrida (km): ");
-                double distancia = double.Parse(Console.ReadLine());
+                if (!double.TryParse(Console.ReadLine(), out double distancia) || distancia <= 0)
+                {
+                    Console.WriteLine("Distancia no válida.");
+                    break;
+                }
                 Console.Write("Tiempo empleado (min): ");
-                double tiempo = double.Parse(Console.ReadLine());
+                if (!double.TryParse(Console.ReadLine(), out double tiempo) || tiempo <= 0)
+                {
+                    Console.WriteLine("Tiempo no válido.");
+                    break;
+                }
                 usuarioActivo.Entrenamientos.Add(new Entrenamiento(distancia, tiempo));
                 Console.WriteLine("Entrenamiento registrado.");
                 break;

@@ -8,8 +8,14 @@ class Entrenamiento
         Distancia = distancia;
         Tiempo = tiempo;
     }
+    // Minutos por kilómetro (la distancia se valida como > 0 al registrar)
+    public double Ritmo()
+    {
+        return Tiempo / Distancia;
+    }
+
     public override string ToString()
     {
-        return $"Distancia: {Distancia} km | Tiempo: {Tiempo} min";
+        return $"Distancia: {Distancia} km | Tiempo: {Tiempo} min | Ritmo: {Ritmo():F2} min/km";
     }
 }
