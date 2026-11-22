@@ -28,7 +28,7 @@ El programa tiene dos menús: uno sin sesión (registrarse / entrar) y otro con 
 Requiere el [SDK de .NET 9](https://dotnet.microsoft.com/download).
 
 ```bash
-git clone https://github.com/Madurga1/Actividad-evaluable-2-trimestre-Fundamentos.git
+git clone https://github.com/GuillermoMadurga/Actividad-evaluable-2-trimestre-Fundamentos.git
 cd Actividad-evaluable-2-trimestre-Fundamentos
 dotnet run
 ```
